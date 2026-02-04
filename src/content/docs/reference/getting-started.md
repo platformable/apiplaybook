@@ -1,26 +1,32 @@
 ---
-title: API Playbook
+title: API Governance Playbook
 description: Start here to explore
 ---
 
-Welcome to the API Playbook.
-
+Welcome to the API Governance Playbook.
 
 What do you want to do today?
 
-- I am a Business Owner (or Technical Expert) and I want to share my APIs with external audiences
-- I am a Technical Expert and I want to build new APIs
-- I am a Technical Expert want to review our APIs and improve them
-- I am a Manager or Team Leader and I need to understand the processes for managing APIs
+|Role|Persona|Use case|
+|Solution Architect|test|I want to create or mature our API governance processes.|
 
+- I am a Solution Architect and I want to mature our API governance processes.
+- I am a Developer or Product Owner and I want to use API governance processes in my work so I can demonstrate to the rest of the organisation how it helps
+- I am a CTO and I want to shift our organisation towards adopting API governance processes
+- I am in a Platform/Centre of Enablement Team and I want to encourage API Governance processes.
 
-Review our API Processes to learn more about the business owner and technical expert roles in managing and governing APIs.
+Review our API Governance Framework
 
-This playbook describes:
+This playbook includes:
+- An overview of our full API Governance Framework
+- Guides for each step in the Framework and other core skills you will need to adopt API governance
+- Tools directories
+- Templates
+- Case studies
 
-- API Processes
-- API Toolset
-- API Best practices in general
+You can follow these pages in order or you can use the menu on the left to jump around to areas of interest.
 
-Click on the above tiles to find out more.
+Remember, technology is the easy part of API Governance. Our guides and reference materials help you focus on building the human relationships, business evidence, and cultural approaches that will make your API governance work successful.
+
+As AI increases, the real human role will be governance. This playbook will help you become an essential part of your organisation, regardless of any shift towards AI-first that is taken.  
 
