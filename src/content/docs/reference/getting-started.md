@@ -2,13 +2,20 @@
 title: API Governance Playbook
 description: Start here to explore
 ---
+{% badge text="New" variant="note" /%}
 
-Welcome to the API Governance Playbook.
+{% aside %}
+This is the best place to start.
+{% /aside %}
 
-What do you want to do today?
 
-|Role|Persona|Use case|
-|Solution Architect|test|I want to create or mature our API governance processes.|
+## Welcome to the API Governance Playbook.
+
+# What do you want to do today?
+
+| Role | Persona | Use case |
+| ---- | -----| ---------- |
+|Solution Architect|![Solution Architect]([https://raw.githubusercontent.com/withastro/docs/main/public/default-og-image.pn](https://github.com/platformable/apiplaybook/blob/main/src/assets/API%20tool%20provider%20and%20consultant%20Persona.png)|I want to create or mature our API governance processes.|
 
 - I am a Solution Architect and I want to mature our API governance processes.
 - I am a Developer or Product Owner and I want to use API governance processes in my work so I can demonstrate to the rest of the organisation how it helps
