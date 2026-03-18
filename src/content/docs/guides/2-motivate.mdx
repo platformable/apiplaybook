@@ -1,1 +1,63 @@
+---
+title: Motivate
+description: Start your API acceleration journey by measuring what you have
+---
 
+import { Aside } from "@astrojs/starlight/components"
+
+import { Card } from "@astrojs/starlight/components"
+import { Image } from "astro:assets"
+
+import OrgContext from "../../../assets/Organisational context categories.png" 
+import Role from "../../../assets/Role.png"
+import Strategies from "../../../assets/Strategies.png"
+
+---
+
+# Phase One: A clear overview of where you are now
+
+To get started with understanding API governance, before even looking at your technical stack, you need to: 
+- Understand what the organisational structure looks like and 
+- Assess your ability to influence decisions towards governance.
+
+##Why is this important?
+You do not want to spend your time pushing against the tide too much. There is enough work to do in encouraging team members and decision makers to adopt governance without prioritising in areas where you have a limited likelihood of success.
+
+You need to get some easy wins up first and be able to show the value. That will help you work faster and get people on board with your goals faster than arguing theroretically about why it is important.
+
+### Organisational context
+
+Understanding the organisational contrext will help you understand where decisions are made, who influences decisions, and how solutions need to be packaged.
+
+<Image src={OrgContext} width="1024" height="124" alt="Organisaational context categories" />
+
+For example, if you are trying to encourage a standardised approach to defining an OpenAPI Specification, in a centralised organisational structure you might need to submit a recommendation proposal to a central governance committee or approach the CTO or CISO if there is no official governance committee.
+
+If you are in a federated organisation, you might look for the solution architect in a ine of business who is on board with using OpenAPI S[ecification and encourage that line of business to pilot a template first and measure the benefits this generates.
+
+If you have a platform/enablement team, you might need to speak with the platform members and see how templates and tools are added and then help the enablement team to draft some guides and resources to support your template idea.
+
+### Role
+
+Who you are also influences your ability to encourage governance.
+
+<Image src={Role} width="1024" height="124" alt="Role" />
+
+We suggest a cyclical process for defining your role. First think about your role, sometimes you might wear multiple hats in the organisational and you can think about how you are prtesenting yourself: for example, are you presenting as a developer of a line of business or as a cross-organisational security practices committee member? Sometimes even this framing can make a difference to how your message lands. Think about what your governance goal is and who you are trying to persuade (we will talk about this more on the next page). Try out your arguments using the following poages a sa guide for how to influence and encourage decision-makers. If thats not successful, think about how else you might approach the problem: maybe you need to get someone else on board and get their help in influencing a decision maker.
+
+Don't get too deflated by new barriers and roadblocks. The idea is to learn and hone your arguments. At first, people are going to be resistant. Your work is to win them over!
+
+### Applying strategies
+
+We will come back to this throughout the guides, but your role and the type of organisational context will help shape what startegies are worth purusuing and which ones would be blocked and waste your energy.
+
+The following table gives some examples to help you start thinking about what might work for you:
+
+<Image src={Strategies} width="1024" height="124" alt="Strategies" />
+
+## Next steps
+Ideally you could use an organisational structure map, or create one to understand who are the decision makers that will influence whether you can take a governance approach to how APIs are built, deployed and maintained.
+
+If not, think through who those decision makers are and who will blockj your way. Sometimes this comes up when you are trying to encourage action. Someone may ask: Have you spoken to security or compliance or a particular person about this?" Start to map out everyione who inflerunces these decisions and you acn even think about giving them a weighting as far as how much influence they have on whether anyone acts  or not.
+
+In the next step, we will think about what arguments are most appealing to these decision-makers and internal influencers.
